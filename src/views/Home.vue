@@ -3,7 +3,7 @@
     <div class="row">
         <div class="column">
             <div class="cell">
-              <img class="image-scaled" src="../assets/GabinetCieni.jpg" alt="Gabinet Cieni">
+              <img class="image-scaled" src="../assets/GabinetCieni.png" alt="Gabinet Cieni">
             </div>
         </div>
         <div class="column">
